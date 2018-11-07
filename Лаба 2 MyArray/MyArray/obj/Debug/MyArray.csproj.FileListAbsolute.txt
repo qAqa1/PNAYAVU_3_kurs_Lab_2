@@ -1,0 +1,28 @@
+D:\Программирование c#\MyArray\MyArray\bin\Debug\MyArray.exe.config
+D:\Программирование c#\MyArray\MyArray\bin\Debug\MyArray.exe
+D:\Программирование c#\MyArray\MyArray\bin\Debug\MyArray.pdb
+D:\Программирование c#\MyArray\MyArray\obj\Debug\MyArray.csprojResolveAssemblyReference.cache
+D:\Программирование c#\MyArray\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+D:\Программирование c#\MyArray\MyArray\obj\Debug\MyArray.exe
+D:\Программирование c#\MyArray\MyArray\obj\Debug\MyArray.pdb
+C:\Users\Администратор\Desktop\Лаба 2 MyArray\MyArray\bin\Debug\MyArray.exe.config
+C:\Users\Администратор\Desktop\Лаба 2 MyArray\MyArray\bin\Debug\MyArray.exe
+C:\Users\Администратор\Desktop\Лаба 2 MyArray\MyArray\bin\Debug\MyArray.pdb
+C:\Users\Администратор\Desktop\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.exe
+C:\Users\Администратор\Desktop\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.pdb
+C:\Users\ldsm8\Desktop\Лаба 2 MyArray с пары\MyArray\bin\Debug\MyArray.exe.config
+C:\Users\ldsm8\Desktop\Лаба 2 MyArray с пары\MyArray\bin\Debug\MyArray.exe
+C:\Users\ldsm8\Desktop\Лаба 2 MyArray с пары\MyArray\bin\Debug\MyArray.pdb
+C:\Users\ldsm8\Desktop\Лаба 2 MyArray с пары\MyArray\obj\Debug\MyArray.csprojResolveAssemblyReference.cache
+C:\Users\ldsm8\Desktop\Лаба 2 MyArray с пары\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+C:\Users\ldsm8\Desktop\Лаба 2 MyArray с пары\MyArray\obj\Debug\MyArray.exe
+C:\Users\ldsm8\Desktop\Лаба 2 MyArray с пары\MyArray\obj\Debug\MyArray.pdb
+D:\Программирование c#\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.csprojResolveAssemblyReference.cache
+D:\Программирование c#\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+D:\Программирование c#\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.exe
+D:\Программирование c#\Лаба 2 MyArray\MyArray\obj\Debug\MyArray.pdb
+D:\Программирование c#\Лаба 2 MyArray\MyArray\bin\Debug\MyArray.exe.config
+D:\Программирование c#\Лаба 2 MyArray\MyArray\bin\Debug\MyArray.exe
+D:\Программирование c#\Лаба 2 MyArray\MyArray\bin\Debug\MyArray.pdb
